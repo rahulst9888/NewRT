@@ -1,0 +1,79 @@
+Nikhil@Nikhil-PC MINGW64 /d/DevOps/NewProj (master)
+$ history
+    1  git init
+    2  git add README.md
+    3  git add README.md
+    4  cd docker-compose-test/
+    5  git init
+    6  git add README.md
+    7  git commit -m "commiting readme"
+    8  git login
+    9  git --help
+   10  git commit -m "commiting readme"
+   11  git config --global user.email "nikhilsthakare29@gmail.com"
+   12  git config --global user.name "nikhilst"
+   13  git commit -m "commiting readme"
+   14  git remote add origin https://github.com/NikhilST/docker-compose.git
+   15  git push -u origin master
+   16  git add .
+   17  git commit -m "docker-compose files"
+   18  git remote add origin https://github.com/NikhilST/docker-compose.git
+   19  git push -u origin master
+   20  git add Dockerfile
+   21  git commit -m "docker file modified"
+   22  git push - u origin master
+   23  git push -u origin master
+   24  git init
+   25  git status
+   26  git add .
+   27  git status
+   28  git status
+   29  git status
+   30  git add .
+   31  git add .
+   32  git status
+   33  git commit
+   34  git status
+   35  git status
+   36  git status
+   37  init add .
+   38  git add .
+   39  git status
+   40  git commit -m 'Added Index File'
+   41  git status
+   42  ls
+   43  cp Infrx.html Index.html
+   44  ls
+   45  git status
+   46  rm Infrx.html
+   47  git status
+   48  git rm --cached infrx.html
+   49  git status
+   50  git add .
+   51  git status
+   52  get commit -m 'File Index Renamed'
+   53  git commit -m 'File Index Renamed'
+   54  git status
+   55  hostname
+   56  touch error.log
+   57  touch .gitignore
+   58  mkdir -p Dir1
+   59  mkdir -p Dir2
+   60  cd Dir1
+   61  touch Apps1.txt
+   62  cd ../Dir2
+   63  touch Apps2.txt
+   64  git status
+   65  pwd
+   66  cd ../
+   67  git status
+   68  git status
+   69  git add .
+   70  git status
+   71  git status
+   72  git add .
+   73  git status
+   74  history
+
+Nikhil@Nikhil-PC MINGW64 /d/DevOps/NewProj (master)
+$
